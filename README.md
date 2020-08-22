@@ -1,4 +1,4 @@
-# mi_card
+# Mi_Card
 
 A new Flutter application.
 
@@ -6,3 +6,4 @@ A new Flutter application.
 
 This project is a starting point for a Flutter application.
 
+# App Overview
